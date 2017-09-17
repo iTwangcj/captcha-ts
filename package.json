@@ -1,0 +1,19 @@
+{
+	"name": "captcha-ts",
+	"version": "0.0.1",
+	"description": "Verification code generator",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iTwangcj/captcha-ts.git"
+	},
+	"keywords": [
+		"captcha",
+		"captcha-ts"
+	],
+	"author": "iTwang",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/iTwangcj/captcha-ts/issues"
+	},
+	"homepage": "https://github.com/iTwangcj/captcha-ts/blob/master/README.md"
+}
