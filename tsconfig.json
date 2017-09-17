@@ -4,7 +4,7 @@
 		"module": "commonjs",
 		"moduleResolution": "node",
 		"noUnusedLocals": true,
-		"sourceMap": true,
+		"sourceMap": false,
 		"declaration": true,
 		"removeComments": false,
 		"noImplicitAny": false,
