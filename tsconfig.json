@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noUnusedLocals": true,
+		"sourceMap": true,
+		"declaration": true,
+		"removeComments": false,
+		"noImplicitAny": false,
+		"outDir": "lib/"
+	},
+	"filesGlob": [
+		"./captcha-ts/**/*.ts"
+	]
+}
