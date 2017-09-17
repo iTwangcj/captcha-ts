@@ -10,7 +10,12 @@
 		"noImplicitAny": false,
 		"outDir": "lib/"
 	},
-	"filesGlob": [
+	"filesGlob": [ //需转换的文件
 		"./captcha-ts/**/*.ts"
+	],
+	"exclude":[ // 需排除的文件
+		"tests",
+		".gitignore",
+		"tsconfig.json"
 	]
 }
